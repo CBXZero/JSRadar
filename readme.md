@@ -18,9 +18,7 @@ any browser that supports Canvas.
 Instructions:
 
 1. Include the graph.js (or whatever you need to rename it to) in your html document
-2. Call JSRadar in javascript, passing 2 arguments:
-	a. The id of your canvas object as a String
-	b. An array of numberical data
+2. Call JSRadar in javascript, passing 2 arguments (the id of your canvas object as a String, An array of numerical data)
 	
 Important Notes:
 
